@@ -13,7 +13,7 @@ const AppHeader = () => {
       {/* Logo  */}
       <h1 className='font-bold text-white font-mono text-lg flex items-center  space-x-2' onClick={()=>navigate("/")}>
        <span className='flex items-center'> <PiBrain className='text-4xl'/>Brain</span>
-        <span className='text-blue-900'>Tumor Solution  </span> 
+        <span className='text-blue-900'>Tumor  </span> 
       </h1>
 
       {/* Menu  */}
